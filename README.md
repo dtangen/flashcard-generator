@@ -1,1 +1,1 @@
-# flashcard-generator
+Flashcard-generator is an app that uses inquirer to imitate trivia flashcards.
